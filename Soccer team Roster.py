@@ -1,5 +1,5 @@
 #Mijash Ghimire Code
-#CS 161
+#student Western oregon university
 #Code for soccer rooster
 #2/28/2020
 
